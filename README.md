@@ -12,6 +12,7 @@ Follow the below steps to run the vagrant VM in your machine and connect to it v
 - Free space of atleast **17 GB** to be used by the output of creating the VM using Vagrant.
 - [VirtualBox](https://www.virtualbox.org/)
 - [Vagrant](https://www.vagrantup.com/)
+- [Windows Remote Desktop Application](https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?activetab=pivot:overviewtab)
 
 #### Steps
 To run the VM follow the steps below.
